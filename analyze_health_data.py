@@ -136,7 +136,7 @@ def main():
     """Main execution function."""
     # TODO: Load the data from 'health_data.csv' using load_data()
     datafile = 'health_data.csv'
-    report_file = '../output/analysis_report.txt'
+    report_file = 'output/analysis_report.txt'
     data = load_data(datafile)
     # TODO: Calculate statistics using calculate_statistics()
     stats = calculate_statistics(data)
