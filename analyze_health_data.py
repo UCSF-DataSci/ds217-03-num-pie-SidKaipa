@@ -149,7 +149,7 @@ def main():
     # TODO: Save to 'output/analysis_report.txt' using save_report()
     save_report(str,report_file)
     # TODO: Print success message
-    print("Success!")
+    print("Successful!")
     
 
 
